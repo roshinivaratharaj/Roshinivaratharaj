@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Roshini 👋
 
-<!--
-**roshinivaratharaj/Roshinivaratharaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc Botany Student  
+💡 Interested in AgriTech, Digital Marketing & Content Creation  
+💻 Exploring Technology & Creative Tools  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Digital Marketing
+- Content Creation (CapCut, Canva)
+- Branding & Strategy
+- Website Content Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- 🌐 Website Development Support
+- 🎨 Logo Design for Vizo India
+- 📈 Lead Generation Work
+
+## 📫 Contact
+- Email:roshinivaratharaj13@gmail.com 
+-LinkedIn:https://www.linkedin.com/in/roshini-varatharaj
